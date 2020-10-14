@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-provider-dept-8001" />
+        <module name="spring-cloud-config" />
         <module name="spring-cloud-provider-8003" />
         <module name="spring-cloud-consumer-hystrix-dashboard" />
         <module name="spring-cloud-eureka-7002" />
